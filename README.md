@@ -1,4 +1,4 @@
 # Election_App
-CSC148
+CSC108
 
 shows the past election results in data.
